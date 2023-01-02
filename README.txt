@@ -1,10 +1,3 @@
-This directory contains malloc/free routines implemented by Doug Lea
-(aka dlmalloc). You should not edit these files directly. Make fixes
-upstream and then pull down the new version of the file.
-
-This code is imported from: ftp://g.oswego.edu/pub/misc/
-It is currently version 2.8.6.
-
-Currently there are very minor modifications that are signified with:
-BEGIN android-changed: change description
-END android-changed
+version https://git-lfs.github.com/spec/v1
+oid sha256:f957ae613fb5ad676b09017b40c1659ed6fac05bdabc8d831a110b3816aaedb8
+size 417
